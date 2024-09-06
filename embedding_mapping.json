@@ -1,4 +1,1 @@
-# This file used to select the embedding type 
-# For Example: selected "gte-base" it can be changed as per the available embedding 
-
 {"case": "gte-base"}
