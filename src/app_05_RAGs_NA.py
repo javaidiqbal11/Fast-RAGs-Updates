@@ -1,4 +1,4 @@
-## Tested Extra 5 RAGs 
+## Tested Extra 5 RAGs but sometimes it doesn't worked with VectorStoreRetriever
 
 import os
 import logging
