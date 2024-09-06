@@ -1,6 +1,6 @@
-# Fast-RAG - RAGs_Updates Branch
+# Fast RAGs Updates
 
-Welcome to the `RAGs_Updates` branch of the Fast-RAG repository. This branch focuses on updates and enhancements related to Retrieval-Augmented Generation (RAG) using fast and efficient techniques. The following documentation provides an overview of the branch, its purpose, and how to use it.
+Welcome to the `RAGs_Updates` repository. This branch focuses on updates and enhancements related to Retrieval-Augmented Generation (RAG) using fast and efficient techniques. The following documentation provides an overview of the branch, its purpose, and how to use it.
 
 ## Overview
 
