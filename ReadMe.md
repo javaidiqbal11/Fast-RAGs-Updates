@@ -18,7 +18,7 @@ The `RAGs_Updates` branch is dedicated to the development and refinement of RAG 
 To use the code from the `RAGs_Updates` branch, clone the repository and switch to this branch:
 
 ```bash
-git clone https://github.com/ab-ark/Fast-RAG.git
+git clone https://github.com/javaidiqbal11/Fast-RAG.git
 cd Fast-RAG
 git checkout RAGs_Updates
 ```
