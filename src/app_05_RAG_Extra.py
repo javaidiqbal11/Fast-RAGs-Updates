@@ -1,4 +1,4 @@
-## Extra RAGs were tested RAGs but sometimes it doesn't worked with VectorStoreRetriever
+## Extra RAGs were tested RAGs 
 
 import os
 import logging
