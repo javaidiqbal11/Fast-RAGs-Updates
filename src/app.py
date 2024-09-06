@@ -1,3 +1,5 @@
+# This code file is the base to use the different types of the embeddings, RAG and database 
+
 import os
 import logging
 from huggingface_hub import login
