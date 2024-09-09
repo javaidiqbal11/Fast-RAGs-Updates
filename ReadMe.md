@@ -15,7 +15,7 @@ The `RAGs_Updates` branch is dedicated to the development and refinement of RAG 
 
 ## Installation
 
-To use the code from the `RAGs_Updates` branch, clone the repository and switch to this branch:
+To use the code from the `main` branch, clone the repository and switch to this branch:
 
 ```bash
 git clone https://github.com/javaidiqbal11/Fast-RAG.git
